@@ -1,4 +1,4 @@
-# Commands on git
+# Git Commands
 
 | Commands       | Descriptions        |
 | ------------- |:-------------:|
@@ -6,3 +6,9 @@
 | git init      | Initialize a local Git repository       |
 | git remote  | Manage a set of tracked repositories     |
 | git add   | Add new and changed files   |
+| git status |  Check status  |
+| git commit | Commit changes   |
+| git push   |  Push changes on repository  |
+| git pull   | Pull data from repository   |
+| git rm -r [file-name.txt] | Remove file or folder |
+| git checkout | Switch branches  |
