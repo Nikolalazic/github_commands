@@ -14,6 +14,6 @@
 | git rm -r [file or folder name]  | Remove file or folder |
 | git branch | List branches |
 | git branch [branch name]| Create new branch |
-| git checkout | Switch branches  |
+| git checkout [branch name]| Switch branches  |
 | git checkout -b [branch name] | Create a new branch |
 | git merge [branch name] | Merge branch to active brach |
