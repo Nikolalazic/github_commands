@@ -10,5 +10,5 @@
 | git commit | Commit changes   |
 | git push   |  Push changes on repository  |
 | git pull   | Pull data from repository   |
-| git rm -r [file-name.txt] | Remove file or folder |
+| git rm  | Remove file or folder |
 | git checkout | Switch branches  |
