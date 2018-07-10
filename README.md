@@ -16,4 +16,4 @@
 | git branch [branch name]| Create new branch |
 | git checkout | Switch branches  |
 | git checkout -b [branch name] | Create a new branch |
-| git merge | Merge branch to active brach |
+| git merge [branch name] | Merge branch to active brach |
